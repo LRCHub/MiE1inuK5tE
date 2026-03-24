@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "You Rock My World",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-03-24T13:05:28.455764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Shaan",
+      "has_synced": false,
+      "path": "select/01_You_Rock_My_World_Shaan.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Jackson, Michael",
+      "has_synced": true,
+      "path": "select/04_You_Rock_My_World_Jackson,_Michael.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/08_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/09_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/10_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Micheal Jackson",
+      "has_synced": true,
+      "path": "select/11_You_Rock_My_World_Micheal_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rock My World (Little Country Girl)",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/12_Rock_My_World_(Little_Country_Girl)_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "P.S. You Rock My World",
+      "artist": "Eels",
+      "has_synced": true,
+      "path": "select/13_P.S._You_Rock_My_World_Eels.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": false,
+      "path": "select/14_You_Rock_My_World_Michael_Jackson.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Rock My World - with intro",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/15_You_Rock_My_World_-_with_intro_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/16_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You Rock My World (Radio Edit)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/17_You_Rock_My_World_(Radio_Edit)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/18_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/19_You_Rock_My_World_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "You Rock My World",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/20_You_Rock_My_World_Michael_Jackson.lrc"
+    }
+  ]
+}
